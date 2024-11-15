@@ -32,6 +32,13 @@ Masukkan perintah untuk menginstal dependesi yang diperlukan:
 pip install -r requirements.txt
 ```
 
+### Step 4: Isi Data Kontak
+Masukkan data kontak pada file bernama kontak.xlsx
+dengan ketentuan :
+- **Pastikan 'Kolom 1' : berisikan Nama dan 'Kolom 2' : berisikan No telepon**
+- **No telepon tidak memakai tanda '+' contoh :** 6281232345667
+
+
 ### Step 5: Jalankan Bot
 Masukkan perintah di bawah untuk menjalankan bot :
 
@@ -40,7 +47,9 @@ python wa.py
 ```
 
 ## Perhatian
-- **Pastikan 'Kolom 1' : Nama dan 'Kolom 2' : No telepon**
-- **No telepon tidak memakai tanda '+' contoh :** 6281232345667
-- **Pastikan nama file kontak dengan format xlsx**
+**Ini hanya dibuat dengan tujuan Pembelajaran**
+- **Mohon Tidak di salah gunakan**
+
+## Note
 - **jika ingin memakai gambar edit pada file wa.py line 33 dan masukkan lokasi gambar anda berada**
+- **jika ingin memakai file excel yang sudah ada silahkan edit pada file wa.py line 6 dan ganti kontak.xlsx dengan nama file yang sesuai** 
