@@ -40,7 +40,7 @@ python wa.py
 ```
 
 ## Perhatian
-**Pastikan 'Kolom 1' : Nama dan 'Kolom 2' : No telepon**
-**No telepon tidak memakai tanda '+' contoh :** 6281232345667
-**Pastikan nama file kontak dengan format xlsx**
-**jika ingin memakai gambar edit pada file wa.py line 33 dan masukkan lokasi gambar anda berada**
+- **Pastikan 'Kolom 1' : Nama dan 'Kolom 2' : No telepon**
+- **No telepon tidak memakai tanda '+' contoh :** 6281232345667
+- **Pastikan nama file kontak dengan format xlsx**
+- **jika ingin memakai gambar edit pada file wa.py line 33 dan masukkan lokasi gambar anda berada**
