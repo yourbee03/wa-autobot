@@ -46,10 +46,6 @@ Masukkan perintah di bawah untuk menjalankan bot :
 python wa.py
 ```
 
-## Perhatian
-**Ini hanya dibuat dengan tujuan Pembelajaran**
-- **Mohon Tidak di salah gunakan**
-
 ## Note
 - **jika ingin memakai gambar edit pada file wa.py line 33 dan masukkan lokasi gambar anda berada**
 - **jika ingin memakai file excel yang sudah ada silahkan edit pada file wa.py line 6 dan ganti kontak.xlsx dengan nama file yang sesuai** 
