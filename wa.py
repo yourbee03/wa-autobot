@@ -15,7 +15,7 @@ Ini contoh Template yang ada, silahkan sesuaikan dengan kebutuhan anda 😁
 """
 
 # lokasi gambar
-image_path = r'a.jpg'
+#image_path = r'a.jpg'      //hapus # untuk memakai gambar dan sesuaikan nama file gambarnya dengan kebutuhan
 
 # Fungsi untuk mengirim pesan
 def send_whatsapp_message(name, phone_number):
