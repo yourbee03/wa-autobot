@@ -15,7 +15,7 @@ Bot Ini support untuk mengirim hingga 1000 pesan secara otomatis dengan memanfaa
 Buka terminal dan jalankan perintah :
 
 ```
-git clone https://github.com/winsnip/hanafuda-bot
+git clone https://github.com/yourbee03/wa-autobot
 ```
 
 ### Step 2: Navigate to the Project Directory
