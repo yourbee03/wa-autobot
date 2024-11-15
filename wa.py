@@ -7,26 +7,11 @@ contacts_df = pd.read_excel('kontak.xlsx')
 
 # Template pesan yang mau dikirim
 message_template = """
-🎉 Mulai Langkah Pertama Kamu di Pengembangan Web dengan Laravel! 🎉
+🎉 Contoh Template 🎉
 
-Halo, {name}! 👨‍💻👩‍💻 Siapa yang siap membangun aplikasi web pertama mereka dengan Laravel? Yuk, gabung ke Workshop Laravel Fundamentals Inatechno Batch 1 (LWI-Batch1)! 💻🔥
+Halo, {name}! 
+Ini contoh Template yang ada, silahkan sesuaikan dengan kebutuhan anda 😁
 
-Di workshop ini, kamu akan belajar langsung tentang dasar-dasar Laravel dan cara membuat aplikasi web dari awal. Kita akan membahas:
-
-✨ Dasar-Dasar Pengembangan Web dengan Laravel
-✨ Fitur-Fitur Inti Laravel dan Penerapannya
-✨ Dari Nol hingga CRUD Lengkap dalam Beberapa Langkah
-
-Catat tanggal pentingnya yaa! 📅 Sabtu, 16 November 2024
-📍 Nutrihub Padang & Via Zoom
-⏰ 09:00 WIB - selesai
-
-🎟 Tempat Terbatas! Dapatkan pengalaman langsung, akses materi, sertifikat, dan networking dengan peserta lainnya.
-🔗 Daftar sekarang: bit.ly/LWI-batch1
-
-Jangan lewatkan kesempatan ini untuk membangun keterampilan Laravel dan memulai perjalananmu di pengembangan web! 🚀
-
-#LaravelWorkshop #Inatechno #WebDevelopment #CodingSkills #FastLearning
 """
 
 # lokasi gambar
